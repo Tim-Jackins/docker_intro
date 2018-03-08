@@ -1,0 +1,16 @@
+<div class="container">
+    <div class="box">
+
+        <p id = "part1">You File has been Uploaded.
+            Please wait ... Your file is being processed. </p>
+
+        <% import commandFile
+        processing = commandFile.Command_Process(tool_selected, input_file) %>
+        processing.processFile() %>
+
+<script>
+document.getElementById("part1").innerHTML = "You File is Processed. Download will begin Automatically";
+</script>
+
+	</div>
+</div>
