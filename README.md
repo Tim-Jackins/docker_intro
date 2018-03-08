@@ -20,7 +20,7 @@ Test your install:
 docker run hello-world
 ```
 
-### Cheat sheet for my image
+### Cheat sheet
 
 After making the image, typically consisting of a program, the requirements for that program, and the Dockerfile, you build it with:
 ```
