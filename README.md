@@ -52,3 +52,12 @@ Shutting down containers and removing them so that you can reuse the images:
 docker stop containername
 docker rm containername
 ```
+
+**P.S.**
+```
+docker container ls #list running containers
+docker container ls -a #list all containers
+docker ps #list running containers
+docker image ls #list most? images
+docker image ls #list all images
+```
