@@ -1,6 +1,4 @@
-# Project Title
-
-This is a copy of the flask app I'm constructing
+# Docker Intro
 
 ## Getting Started
 
